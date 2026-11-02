@@ -144,7 +144,6 @@ Let's discuss new opportunities, open-source projects, or innovative tech collab
 - 💼 **LinkedIn:** [linkedin.com/in/ajay-jatav-9219ba271](https://linkedin.com/in/ajay-jatav-9219ba271)
 - 🐙 **GitHub:** [github.com/jatavscript](https://github.com/jatavscript)
 - 📸 **Instagram:** [@mr_ajay._.07](https://www.instagram.com/mr_ajay._.07/)
-- 📞 **Phone:** [+91 7984122719](tel:+917984122719)
 - 📍 **Location:** Vadodara, Gujarat, India
 
 ---
